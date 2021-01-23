@@ -1,0 +1,3 @@
+logo.png file
+step_01.png
+step_02.png
